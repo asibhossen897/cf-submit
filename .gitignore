@@ -1,0 +1,36 @@
+# Project-specific
+codeforces_cli.py
+
+# Python-related
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# SeleniumBase logs and screenshots
+latest_logs/
+screenshots/
+saved_cookies/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Codeforces-specific
+codeforces_cookies.json
+codeforces_api_response.json
+
+# Miscellaneous
+*.log
+*.swp
+.DS_Store
+
+
