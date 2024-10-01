@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+rich==13.8.1
+seleniumbase==4.31.2
+setuptools==75.1.0

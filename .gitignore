@@ -19,6 +19,7 @@ env/
 latest_logs/
 screenshots/
 saved_cookies/
+downloaded_files/
 
 # IDE-specific files
 .vscode/
